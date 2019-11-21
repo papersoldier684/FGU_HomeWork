@@ -1,0 +1,10 @@
+先設定一個陣列
+int A[] = {1,2,4,5,7}
+
+設定
+A[1] = front
+A[5] = back
+
+再來設定兩個函數
+dequeue() = 將front元素取出
+enqueue(e) = 在back增加一個元素
